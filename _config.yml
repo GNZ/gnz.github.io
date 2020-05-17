@@ -15,7 +15,7 @@ github_username:  gnz
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: chillwildlife
-linkedin_username: gonzalo-acosta-7a02a892/
+linkedin_username: gonzalo-acosta-7a02a892
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -27,13 +27,16 @@ about_content: | # this will include new lines to allow paragraphs
     I'm an Android Developer (currently) based in <mark>Poland</mark>, interested in embedded systems, computer architectures,
     good practices, and more and more in security.
 
-    I like to be involved in projects that make a positive impact in people's life. Interested in everything that
+    I like to be involved in projects that make a positive impact on people's life. Interested in everything that
     has to do with process automatisation.
 
-    Currently working @ MyPinPad, trying to make payments accessible for everyone
+    Currently working @ MyPinPad, trying to make payments accessible for everyone.
+
+    I have most experience working with: <mark>Kotlin</mark>, <mark>Java</mark>, <mark>Android</mark>, <mark>RxJava/Kotlin</mark>
+    <mark>Mockito</mark>, <mark>SQL</mark>, <mark>git</mark>.
 
 # Projects Section
-# projects_title: Projects
+ projects_title: Projects
 
 # Experience Section
 experience_title: Experience
@@ -45,11 +48,12 @@ educaton_title: Education
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   But hey, I'm not only **software development** and **hardware lover** kind of person. I'm also interested in:
-    - Travelling, been here and there, still a couple of continets to visit on the list
-    - Drinking and **brewing** beer. Recently started brewing my own beer. My objective is to automatised the whole process
-    - Wines. Love to taste and discover high quality and cheap wines
-    - Roller skating. From time to time with my wife
-    - Dancing. I like to dance, not an expert tho
+    - Travelling, been here and there, still a couple of continets to visit on the list;
+    - Drinking and **brewing** beer. Recently started brewing my own beer. My objective is to automatised the whole process;
+    - Wines. Love to taste and discover high quality and cheap wines;
+    - Football. I like to **play** and watch football games. <mark>Tottenham</mark> supporter;
+    - Roller skating. From time to time with my wife;
+    - Dancing. I like to dance, not an expert tho;
 
 # Footer
 footer_show_references: true
