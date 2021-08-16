@@ -99,4 +99,4 @@ bundle exec jekyll serve
 
 ## Theme
 
-The theme used for this page is the [modern-resume-theme](https://github.com/sproogen/modern-resume-theme) by [James Grant](
+The theme used for this page is the [modern-resume-theme](https://github.com/sproogen/modern-resume-theme) by  [James Grant](https://github.com/sproogen)
