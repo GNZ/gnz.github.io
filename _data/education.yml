@@ -1,10 +1,25 @@
 - layout: left
-  name: TBD
-  #dates: 2010 - 2013
-  #qualification: BSc Computer Science
-  #quote: >
-  #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  #description: | # this will include new lines to allow paragraphs
-  #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+  name: Universidad Nacional Del Sur
+  dates: 2009 - 2015
+  qualification: Computer System Engineer
+  quote: >
+    The National University of the South (in Spanish: Universidad Nacional del Sur, UNS) is the largest national university in southern Argentina. Its motto is Ardua Veritatem, which means "through the difficulties to the truth".
 
-  #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    The university was founded on January 5, 1956, and absorbed what had been the Technological Institute of South (Instituto Tecnológico del Sur, ITS), a former National University of La Plata affiliate established in 1946. Located in the city of Bahía Blanca, the school became the sixteenth in Argentina's national university system.
+  description: | # this will include new lines to allow paragraphs
+    During my time at the university, I learn from programming complex distributed applications to handle and analyse electronic circuits. The career was a combination between engineer bases, computer science and electronics. Thanks to that, I learn how to think of computer science as an engineer and with practical and theoretical knowledge about the underneath circuits and elements that run a program or application.
+
+    I really enjoyed my time at uni, and always felt that I owe a lot to this incredible public institution. That's why I participated in different university's goverment bodies as an student, and worked as a undergraduated teaching assistant.
+
+    I was elected as <strong>secretary</strong>, <strong>vicepresident</strong> and <strong>president of the Computer Science and Engineer Department Student Center</strong> (CECom), as a <strong>student member of the Council of the Computer Science and Enginner Department</strong> (DCIC) from 2012 to 2014, as a <strong>student member of the Council of the National University of the South</strong> (UNS) from 2013 to 2014, and as a <strong>student member of the Assembly of the National University of the South</strong> (UNS) during 2015.
+
+    I loved the idea of improve the system for everyone at the university, impulse a better quality education, transmit our side of the story and connect with other people to think and launch lifechanging projects.
+
+    I also felt in love with computers architectures and embedded systems, I would take optional courses about these subjects and try to go to conferences, unfortunatly I didn't have the oportunity to make it a professional path.
+
+    Apart from all the courses I took during my degree I also took part in some others:
+    - October 2013: Approved course, <mark>“Applications development for Android mobile OS”</mark>, University CAECE, CACIC, Mar del Plata, Argentina.
+    - July 2012: Approved course, <mark>“Mobile robotics II: Simultaneous localization and mapping”</mark>, University of Buenos Aires, Escuela de Ciencias Informáticas, Buenos Aires, Argentina.
+    - July 2012: Approved course, <mark>“Java for Real-Time software”</mark>, University of Buenos Aires, Escuela de Ciencias Informáticas, Buenos Aires, Argentina.
+
+    The final project of my career was <mark>Image acquisition and analysis of microscopes using Raspberry Pi and Android</mark> and you can find the code [here](https://github.com/GNZ/micro-api) and [here](https://github.com/GNZ/micro-android)
