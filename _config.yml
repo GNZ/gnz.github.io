@@ -35,6 +35,8 @@ about_content: | # this will include new lines to allow paragraphs
     I have most experience working with: <mark>Kotlin</mark>, <mark>Java</mark>, <mark>Android</mark>, <mark>RxJava</mark>
     <mark>Mockito</mark>, <mark>SQL</mark>, <mark>git</mark>.
 
+    During my last two years I've been working with the <mark>EMV</mark> payment method, <mark>cryptography</mark> and <mark>mobile security</mark> in the mobile payments industry.
+
 # Projects Section
 projects_title: Projects
 
