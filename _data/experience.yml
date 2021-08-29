@@ -7,9 +7,11 @@
     Delivering a consistent and secure payment experience, everywhere
     Simple and scalable card present transactions across digital and offline channels.
   description: | # this will include new lines to allow paragraphs
-    Working in CPoC and SPoC solutions with other three android developers to make payments accessible to everyone. Dealing with a little bit of everything in that matter, from EMV to cryptography, security and functionality in general.
+    Working in the [first worldwide CPoC solution certified by PCI](https://www.pcisecuritystandards.org/popups/cpoc_sol_device.php?reference=2020-01279.001.aaa) and SPoC solution with other three android developers. Dealing with a little bit of everything in that matter, EMV, cryptography, attestation, security and functionality in general.
 
-- layout: left
+    Making payments accessible for everyone.
+
+- layout: right
   company: Netguru (Poland)
   link: netguru.com
   job_title: Android Developer/Senior Android Developer
@@ -18,6 +20,13 @@
     Get a world-class agile product team, on demand
   description: | # this will include new lines to allow paragraphs
     Worked in really diverse products with different people. We took ideas from investors and shaped them into concrete products, and improved applications to fulfil the clients' expectations.
+
+    I've worked in the following projects:
+      - Norton Privacy Manager and MySudo for Android
+      - [City Bike](https://play.google.com/store/apps/details?id=com.citibikenyc.citibike)
+      - [AtStats](https://play.google.com/store/apps/details?id=co.netguru.android.atstats) -  [source code](https://github.com/netguru/atstats-android)
+      - [Inbbbox](https://play.google.com/store/apps/details?id=co.netguru.android.inbbbox)
+
 
 - layout: left
   company: GenTecnologico (Argentina)
@@ -29,7 +38,7 @@
   description: | # this will include new lines to allow paragraphs
     Solo developer in an application to make company inventories. It would connect to a Bluetooth bar scanner to read the bar codes of the companies belongings
 
-- layout: left
+- layout: right
   company: Biometrika (Ecuador)
   link: biometrika.ec
   job_title: Mobile Developer (intern)
@@ -47,13 +56,13 @@
   description: | # this will include new lines to allow paragraphs
     Working as a tenuered undergraduated teaching assistant while studing. Teaching one of my passions and learning more during the process.
 
-- layout: left
+- layout: right
   company: National University of the South - UNS (Argentina)
   link: cs.uns.edu.ar
   job_title: Undergraduated Teaching Assistant (Programming Tools and Principles)
   dates: September 2013 - November 2013
   description: | # this will include new lines to allow paragraphs
-    Short time contract with the university to help the permanent staff.
+    Short time contract with the university to help the permanent staff teaching students from other departments to use different programming tools such as Matlab, R or C
 
 - layout: left
   company: Le Park Night Club (Argentina)
