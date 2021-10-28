@@ -19,9 +19,9 @@
   quote: >
     Get a world-class agile product team, on demand
   description: | # this will include new lines to allow paragraphs
-    Worked in really diverse products with different people. We took ideas from investors and shaped them into concrete products, and improved applications to fulfil the clients' expectations.
+    I worked on really diverse products with different people. We took ideas from investors and shaped them into concrete products, and improved applications to fulfil the clients' expectations.
 
-    I've worked in the following projects:
+    I've worked on the following projects:
       - Norton Privacy Manager and MySudo for Android
       - [City Bike](https://play.google.com/store/apps/details?id=com.citibikenyc.citibike)
       - [AtStats](https://play.google.com/store/apps/details?id=co.netguru.android.atstats) -  [source code](https://github.com/netguru/atstats-android)
@@ -54,7 +54,7 @@
   job_title: Undergraduated Teaching Assistant (Computer Architecture & Computer Organization)
   dates: August 2012 - February 2015
   description: | # this will include new lines to allow paragraphs
-    Working as a tenuered undergraduated teaching assistant while studing. Teaching one of my passions and learning more during the process.
+    Working as a tenured undergraduate teaching assistant while studying. Teaching one of my passions, and learning more during the process.
 
 - layout: right
   company: National University of the South - UNS (Argentina)
@@ -71,5 +71,5 @@
   description: | # this will include new lines to allow paragraphs
     During my short time there I would:
       - Resolve issues and troubleshoot related to computers OS, networking, etc.
-      - Assist user with the system used in the club.
+      - Assist users with the system used in the club.
       - Communicate to the users of any service status change
