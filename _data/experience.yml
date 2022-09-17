@@ -1,18 +1,31 @@
+- layout: right
+  company: Qonto (Remote)
+  link: qonto.com
+  job_title: Senior Android Developer
+  dates: March 2022 - Present
+  quote: >
+    The account that powers up your business
+  description: | # this will include new lines to allow paragraphs
+    Working on a well maintained and architectured codebase, using all the trendy tools for a user-facing application of a "quasi-neobank", including MVVM with Clean Architecture, coroutines, jetpack compose, navigation component, paging, etc.
+    In charge of maintain, develop new features and improve processes.
+    Using a customised version of the [Toyota Production System](https://global.toyota/en/company/vision-and-philosophy/production-system/).
+    Bringing finances to everyone.
+
 - layout: left
-  company: MyPinPad (Wales)
+  company: MyPinPad (Remote)
   link: mypinpad.com
   job_title: Senior Android Developer
-  dates: November 2018 - Present
+  dates: November 2018 - March 2022
   quote: >
     Delivering a consistent and secure payment experience, everywhere
     Simple and scalable card present transactions across digital and offline channels.
   description: | # this will include new lines to allow paragraphs
-    Working in the [first worldwide CPoC solution certified by PCI](https://www.pcisecuritystandards.org/popups/cpoc_sol_device.php?reference=2020-01279.001.aaa) and SPoC solution with other three android developers. Dealing with a little bit of everything in that matter, EMV, cryptography, attestation, security and functionality in general.
-
+    I've worked in the [first worldwide CPoC solution certified by PCI](https://www.pcisecuritystandards.org/popups/cpoc_sol_device.php?reference=2020-01279.001.aaa) and SPoC solution with other three android developers. Dealing with a little bit of everything in that matter, EMV, cryptography, attestation, security and functionality in general.
+    We used a custom architecure called Runtime Centric Thinking. For more information check my ex-leader [site](https://doridori.github.io/Android-Architecture-Runtime/#sthash.8sXF0yfY.dpbs) where he explains what is about.
     Making payments accessible for everyone.
 
 - layout: right
-  company: Netguru (Poland)
+  company: Netguru (Poland, Remote)
   link: netguru.com
   job_title: Android Developer/Senior Android Developer
   dates: March 2016 - November 2018
