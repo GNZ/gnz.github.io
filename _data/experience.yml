@@ -21,7 +21,7 @@
     Simple and scalable card present transactions across digital and offline channels.
   description: | # this will include new lines to allow paragraphs
     I've worked in the [first worldwide CPoC solution certified by PCI](https://www.pcisecuritystandards.org/popups/cpoc_sol_device.php?reference=2020-01279.001.aaa) and SPoC solution with other three android developers. Dealing with a little bit of everything in that matter, EMV, cryptography, attestation, security and functionality in general.
-    We used a custom architecure called Runtime Centric Thinking. For more information check my ex-leader [site](https://doridori.github.io/Android-Architecture-Runtime/#sthash.8sXF0yfY.dpbs) where he explains what is about.
+    We used a custom architecture called Runtime Centric Thinking. For more information check my ex-leader [site](https://doridori.github.io/Android-Architecture-Runtime/#sthash.8sXF0yfY.dpbs) where he explains what is about.
     Making payments accessible for everyone.
 
 - layout: right
@@ -64,7 +64,7 @@
 - layout: left
   company: National University of the South - UNS (Argentina)
   link: cs.uns.edu.ar
-  job_title: Undergraduated Teaching Assistant (Computer Architecture & Computer Organization)
+  job_title: Undergraduate Teaching Assistant (Computer Architecture & Computer Organization)
   dates: August 2012 - February 2015
   description: | # this will include new lines to allow paragraphs
     Working as a tenured undergraduate teaching assistant while studying. Teaching one of my passions, and learning more during the process.
@@ -72,7 +72,7 @@
 - layout: right
   company: National University of the South - UNS (Argentina)
   link: cs.uns.edu.ar
-  job_title: Undergraduated Teaching Assistant (Programming Tools and Principles)
+  job_title: Undergraduate Teaching Assistant (Programming Tools and Principles)
   dates: September 2013 - November 2013
   description: | # this will include new lines to allow paragraphs
     Short time contract with the university to help the permanent staff teaching students from other departments to use different programming tools such as Matlab, R or C
