@@ -8,6 +8,20 @@ title: Staff Engineer
 email: acosta.gonzalo@gmail.com
 website: gnz.github.io
 
+# SEO & canonical URL
+url: https://gnz.github.io
+description: "Staff Engineer specialising in Android, payments, EMV, and mobile security. Based in Poland, currently at Qonto."
+
+author: Gonzalo Acosta
+
+image:
+  path: images/profile.jpg
+  alt: Gonzalo Acosta
+
+twitter:
+  username: gonzadacosta
+  card: summary
+
 # Social links
 twitter_username: gonzadacosta
 github_username:  gnz
