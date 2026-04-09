@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Gonzalo Acosta
-title: Senior Android Developer
+title: Staff Engineer
 email: acosta.gonzalo@gmail.com
 website: gnz.github.io
 
@@ -24,21 +24,18 @@ linkedin_username: gnz-acosta
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    I'm an Android Developer (currently) based in <mark>Poland</mark>, interested in embedded systems, computer architectures,
-    good practices, payments and EMV, and more and more in security.
+    Senior Android Developer based in <mark>Poland</mark>, with a strong focus on payments, EMV, mobile security, and clean architecture.
 
-    I like to be involved in projects that make a positive impact on people's life. Interested in everything that
-    has to do with process automatisation.
+    I like to be involved in projects that make a positive impact on people's lives, and I'm particularly interested in process automation and building reliable, well-tested software.
 
-    Currently working @ MyPinPad, trying to make payments accessible for everyone.
+    Currently Staff Engineer @ <mark>Qonto</mark>, helping bring modern business finance to companies across Europe.
 
-    I have most experience working with: <mark>Kotlin</mark>, <mark>Java</mark>, <mark>Android</mark>, <mark>RxJava</mark>
-    <mark>Mockito</mark>, <mark>SQL</mark>, <mark>git</mark>.
+    Core stack: <mark>Kotlin</mark>, <mark>Java</mark>, <mark>Android</mark>, <mark>Jetpack Compose</mark>, <mark>Coroutines</mark>, <mark>RxJava</mark>, <mark>Mockito</mark>, <mark>SQL</mark>, <mark>git</mark>.
 
-    During my last two years I've been working with the <mark>EMV</mark> payment method, <mark>cryptography</mark> and <mark>mobile security</mark> in the mobile payments industry.
+    Deep experience in the <mark>EMV</mark> payment standard, <mark>cryptography</mark>, and <mark>mobile security</mark> — including building the world's first PCI-certified CPoC solution.
 
 # Projects Section
-#projects_title: Projects
+projects_title: Projects
 
 # Experience Section
 experience_title: Experience

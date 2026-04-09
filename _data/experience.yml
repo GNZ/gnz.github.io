@@ -1,15 +1,24 @@
 - layout: right
   company: Qonto (Remote)
   link: qonto.com
-  job_title: Senior Android Developer
-  dates: March 2022 - Present
+  job_title: Staff Engineer
+  dates: July 2025 - Present
   quote: >
     The account that powers up your business
   description: | # this will include new lines to allow paragraphs
-    Working on a well maintained and architectured codebase, using all the trendy tools for a user-facing application of a "quasi-neobank", including MVVM with Clean Architecture, coroutines, jetpack compose, navigation component, paging, etc.
-    In charge of maintain, develop new features and improve processes.
-    Using a customised version of the [Toyota Production System](https://global.toyota/en/company/vision-and-philosophy/production-system/).
-    Bringing finances to everyone.
+    Promoted to Staff Engineer after 3 years as Senior Android Developer.
+    Working across team boundaries to drive technical direction, raise engineering standards, and deliver high-impact initiatives on the Android platform.
+
+- layout: right
+  company: Qonto (Remote)
+  link: qonto.com
+  job_title: Senior Android Developer
+  dates: March 2022 - July 2025
+  description: | # this will include new lines to allow paragraphs
+    Working on the Android app for one of Europe's leading business finance platforms, serving hundreds of thousands of companies.
+    The codebase follows MVVM with Clean Architecture, with a strong emphasis on modularity, testability, and long-term maintainability.
+    Day-to-day work spans delivering new product features, improving engineering processes, and collaborating across cross-functional teams using a customised version of the [Toyota Production System](https://global.toyota/en/company/vision-and-philosophy/production-system/).
+    Stack: <mark>Kotlin</mark>, <mark>Jetpack Compose</mark>, coroutines, navigation component, paging, and more.
 
 - layout: left
   company: MyPinPad (Remote)
@@ -20,9 +29,9 @@
     Delivering a consistent and secure payment experience, everywhere
     Simple and scalable card present transactions across digital and offline channels.
   description: | # this will include new lines to allow paragraphs
-    I've worked in the [first worldwide CPoC solution certified by PCI](https://www.pcisecuritystandards.org/popups/cpoc_sol_device.php?reference=2020-01279.001.aaa) and SPoC solution with other three android developers. Dealing with a little bit of everything in that matter, EMV, cryptography, attestation, security and functionality in general.
-    We used a custom architecture called Runtime Centric Thinking. For more information check my ex-leader [site](https://doridori.github.io/Android-Architecture-Runtime/#sthash.8sXF0yfY.dpbs) where he explains what is about.
-    Making payments accessible for everyone.
+    Part of the 4-person Android team that built and achieved the [first worldwide PCI-certified CPoC solution](https://www.pcisecuritystandards.org/popups/cpoc_sol_device.php?reference=2020-01279.001.aaa) — a landmark certification in the mobile payments industry enabling contactless payments on commercial off-the-shelf devices.
+    Worked across the full depth of mobile payment security: <mark>EMV</mark> protocol, <mark>cryptography</mark>, key management, device attestation, and runtime integrity protection.
+    Architecture followed Runtime Centric Thinking — see the [full write-up](https://doridori.github.io/Android-Architecture-Runtime/#sthash.8sXF0yfY.dpbs) from the team lead.
 
 - layout: right
   company: Netguru (Poland, Remote)

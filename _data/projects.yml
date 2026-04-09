@@ -1,8 +1,29 @@
-#- layout: top-middle
-#  name: TBD
-  #link: github.com/sproogen
-  #github: sproogen/resume-theme
-  #quote: >
-  #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-#  description: | # this will include new lines to allow paragraphs
-#    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+- layout: top-middle
+  name: AtStats
+  link: play.google.com/store/apps/details?id=co.netguru.android.atstats
+  github: netguru/atstats-android
+  quote: >
+    Open source Twitter statistics app for Android
+  description: | # this will include new lines to allow paragraphs
+    Open source Android application providing detailed statistics about Twitter accounts, built at Netguru.
+    Fully available on the Play Store and open sourced on GitHub. Built with <mark>Kotlin</mark>, clean architecture,
+    and modern Android patterns — a reference project for the team's engineering standards.
+
+- layout: top-middle
+  name: City Bike NYC
+  link: play.google.com/store/apps/details?id=com.citibikenyc.citibike
+  quote: >
+    Android app for New York City's Citi Bike sharing program
+  description: | # this will include new lines to allow paragraphs
+    Contributed to the official Citi Bike Android app, used daily by commuters and tourists across New York City.
+    Worked on real-time station availability features and overall app stability for a high-traffic, location-based product.
+
+- layout: top-middle
+  name: Inbbbox
+  link: play.google.com/store/apps/details?id=co.netguru.android.inbbbox
+  quote: >
+    Open source Dribbble client for Android
+  description: | # this will include new lines to allow paragraphs
+    Open source Android client for Dribbble, built at Netguru as a showcase of modern Android development.
+    Focused on smooth animations, clean UI, and a well-structured <mark>Kotlin</mark> codebase. A solid example
+    of building a polished, design-forward Android application.
